@@ -22,6 +22,7 @@ Componente:
 - buton
 - baterie externa(telefon)
 - motor cu elice pentru aspirare/suflare
+- senzori
 
 
 
