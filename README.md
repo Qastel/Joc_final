@@ -1,4 +1,5 @@
 # proiect_aspirator
+https://docs.google.com/spreadsheets/d/1_GYeWjBXVv_4aekasxN6_g4DxXadq2Kq5P1_7F1olAA/edit#gid=1437207874
 
 Proiect - aspirator de camera
 
@@ -23,6 +24,8 @@ Componente:
 - baterie externa(telefon)
 - motor cu elice pentru aspirare/suflare
 - senzori
+
+
 
 
 
