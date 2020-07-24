@@ -1,9 +1,8 @@
-# proiect_aspirator
+# Vacuum Cleaner Project
 https://docs.google.com/spreadsheets/d/1_GYeWjBXVv_4aekasxN6_g4DxXadq2Kq5P1_7F1olAA/edit#gid=1437207874
 
-Proiect - aspirator de camera
-
-Aspiratorul trebuie sa ocoleasca obiecte, sa nu se loveasca de ziduri.
+Description
+The vacuum cleaner has to avoid obstacles and not hit the walls.
 
 Doua moduri disponibile:
 Mapare - Ca sa acopere toata incaperea trebuie sa mapeze, sa stie unde nu a fost si unde se afla (se foloseste o matrice si imu pentru directionare).
